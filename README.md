@@ -23,5 +23,5 @@ To run the app
     
 ## Contact Me
 
-To contact me email to username.praveen.email@gmail.com or dm to - [@intellectual_praveen](https://www.instagram.com/intellectual_praveen)
+To contact me email to username.praveen.email@gmail.com
 
